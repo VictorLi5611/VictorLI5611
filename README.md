@@ -15,4 +15,4 @@ On top of this, I'm currently learning 🦀 Rust.
 ### 🌎 Find Me Elsewhere 🌎
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/victor-li5611/)  
 
-💬 _**"Life your life filled with oh-wells instead of what-ifs."**_
+💬 _**"Live your life filled with oh-wells instead of what-ifs."**_
