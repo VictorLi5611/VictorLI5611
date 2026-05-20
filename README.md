@@ -1,5 +1,5 @@
 ### 👋 Heyo!!! 👋  
-Hi! I'm Victor Li — thanks for checking out my GitHub!
+My name is Victor Li. Thanks for checking out my GitHub!
 
 I'm a **Master’s student in Computer Science** at **Carleton University** with research interests in **machine learning, wireless communications, distributed systems, and optimization**.
 
