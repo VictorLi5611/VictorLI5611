@@ -49,5 +49,3 @@ I'm a **Master’s student in Computer Science** at **Carleton University** with
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4212-9928)
 
 💬 _"Live your life filled with oh-wells instead of what-ifs."_
-
-[![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4212-9928)
